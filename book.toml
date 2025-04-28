@@ -1,0 +1,6 @@
+[book]
+authors = ["J-Saff"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CDF Test"
