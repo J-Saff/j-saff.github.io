@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [What is DataOps?](./chapter_1.md)
+    - [DevOps vs DataOps](./chapter_1_1.md)

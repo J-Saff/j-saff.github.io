@@ -3,4 +3,4 @@ authors = ["J-Saff"]
 language = "en"
 multilingual = false
 src = "src"
-title = "CDF Test"
+title = "Fundamentals of DataOps"
